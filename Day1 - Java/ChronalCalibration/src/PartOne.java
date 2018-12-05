@@ -1,6 +1,9 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 
+
+//TASK: Given a file of lines with a number on each where a number can have a + or a - in front of it,
+//Calculate the sum of the numbers in the file.
 public class PartOne {
 
     public static void main(String[] args) {
