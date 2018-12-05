@@ -6,7 +6,7 @@ public class PartTwo {
 
     static int frequency = 0;
     static ArrayList<Integer> visitedFrequencies = new ArrayList<>();
-    static int magicNumber = -330; //This is the lowest the frequency drops down on each iteration.
+    static int magicNumber = -329; //This is the lowest the frequency drops down on each iteration.
 
 
     public static void main(String[] args) {
